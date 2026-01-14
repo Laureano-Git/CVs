@@ -5,6 +5,7 @@ Curriculums: Skills de cada tipo de desarrollo y boton para descargar el corresp
 
 ## 🛠️ Tech Stack
 SvelteKit Frontend Reactivo (JavaScript)
+
 CSS Custom Properties UI / UX
 
 ## :package: Instalación y Configuración
