@@ -1,5 +1,6 @@
 ## :rocket: Características principales
 Menú: Datos generales de contacto e idiomas, además de boton desplegable para acceder a los curriculums
+
 Curriculums: Skills de cada tipo de desarrollo y boton para descargar el correspondiente CV en formato PDF
 
 ## 🛠️ Tech Stack
