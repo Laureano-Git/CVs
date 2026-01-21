@@ -2,7 +2,7 @@
   # Cambia "CV - Alumno 1" por el nombre real de tu carpeta
   base = "frontend"
   command = "npm run build"
-  publish = ".svelte-kit/netlify"
+  publish = "build"
 
 [build.environment]
   NODE_VERSION = "20"
