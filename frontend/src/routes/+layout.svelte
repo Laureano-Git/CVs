@@ -38,12 +38,12 @@
 	</main>
 
 	<footer>
-		<a class="ig" href="https://www.instagram.com/monster.burga/" target="_blank">
+		<!--<a class="ig" href="https://www.instagram.com/monster.burga/" target="_blank">
 			<i class="bi bi-instagram">
 				<br>
 				instagram
 			</i>
-		</a>
+		</a>-->
 		<p>&copy; 2026 Curriculum Vitae - Massa Laureano Ezequiel - Hecho con SvelteKit</p>
 	</footer>
 </div>
